@@ -10,7 +10,7 @@ This repository provides a simple script that builds OpenJDK in Docker.
   
 ## How to build
 
-Go to *scrips* and execute:
+Go to *scrip* and execute:
 ```sudo ./build-openjdk.sh```
 
 Once the build is done go to *source/jdk/build/linux-x86_64-normal-server-release/images/jdk* . Execute:
