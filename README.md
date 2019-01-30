@@ -18,6 +18,14 @@ Once the build is done go to *source/jdk/build/linux-x86_64-normal-server-releas
 ./java -version
 ```
 
+The result should look like this:
+
+```
+openjdk version "11.0.1-internal" 2019-01-05
+OpenJDK Runtime Environment PawelZalejkoJDK (build 11.0.1-internal+0-Pawel)
+OpenJDK 64-Bit Server VM PawelZalejkoJDK (build 11.0.1-internal+0-Pawel, mixed mode)
+```
+
 ## How to customize the build
 By editing *docker/Dockerfile* you can customize a few simple parameters
 
