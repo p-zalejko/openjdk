@@ -9,6 +9,7 @@ RUN dnf install -y autoconf \
     freetype-devel \
     elfutils giflib-devel \
     gcc-c++ \
+    make \
     gdb \
     gtk2-devel \
     lcms2-devel \
